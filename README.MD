@@ -24,6 +24,7 @@
 - [Git](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/git.txt)
 - ~~Html~~ 
 - ~~CSS~~
+- [JS](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/JS.txt)
 - ~~Markdown~~
 
 
