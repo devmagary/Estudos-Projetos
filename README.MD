@@ -5,7 +5,7 @@
 ## Projetos
 
 - [Minha primeira página usando HTML e CSS](https://github.com/devmagary/Estudos-Projetos/tree/main/android)
-- [Portifólio de Dante-Designer](https://github.com/devmagary/Estudos-Projetos/tree/main/dante-port)
+- [Portifólio de Dante-Designer](https://github.com/devmagary/Estudos-Projetos/tree/main/dante-port) (em produção)
 
 ## Lista de Tarefas
 
@@ -16,7 +16,7 @@
 - [ ] Converter .txt para .md com as anotações
 - [ ] HTML e CSS - Posicionamento e Display Flex e Grid mais avançado
 - [ ] Terminar o portifólio de Dante
-- [ ] Iniciar os estudos de JS
+- [x] Iniciar os estudos de JS
 - [ ] Aprender mais sobre o Git (:stuck_out_tongue_winking_eye:*eterno estudo?*:stuck_out_tongue_winking_eye:)
  
 ## Anotações
