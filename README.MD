@@ -21,10 +21,10 @@
  
 ## Anotações
 
-- [Git](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/git.txt)
+- [Git](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/git.MD)
 - ~~Html~~ 
 - ~~CSS~~
-- [JS](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/JS.txt)
+- [JS](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/JS.MD)
 - ~~Markdown~~
 
 
