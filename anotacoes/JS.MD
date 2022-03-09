@@ -106,3 +106,6 @@ Ex.: `var xicara = {cor: ‘azul’, tamanho: ‘p’, funcao: tomarCafe()}`
 
 A utilização de acento grave e a importancia
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals
+
+sobre desestruturação
+https://www.digitalocean.com/community/tutorials/understanding-destructuring-rest-parameters-and-spread-syntax-in-javascript-pt
