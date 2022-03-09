@@ -60,14 +60,24 @@ Ex.: let array = ['string', 1, true, false, [‘array1], [‘array2’]...]
 ### Manipulação
 
 - forEach() – itera um array;
+ex: `let listinha = ["arroz", "feijão", "sopa"]
+listinha.forEach(function(item, index){console.log(item, index)})`
+
 - push() – add item no final do array;
+
+ex: `listinha.push('farinha')
+console.log(listinha)`
 - pop() – remove item no final do array;
 - shift() – remove item no início do array;
 - unshift() – add item no início do array;
 - indexOf() – retorna o índice de um valor;
+ex: console.log(listinha.indexOf("farinha"))
 - splice() – remove ou substitui um item pelo índice;
+ex: `listinha.splice(0, 3)
+console.log(listinha)`
 - slice() – retorna uma parte de um array existente;
-
+ex: `novaListinha = listinha.slice(0, 3)
+console.log(novaListinha)`
 ## Objetos
 
 Dados que possuem propriedades e valores que definem suas
@@ -91,3 +101,8 @@ declarar a variável:
 Ex.: `var xicara = {cor: ‘azul’, tamanho: ‘p’, funcao: tomarCafe()}`
 
     var { cor, tamanho, funcao } = xicara;
+
+### Para saber mais
+
+A utilização de acento grave e a importancia
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals
